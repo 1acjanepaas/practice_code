@@ -11,4 +11,4 @@ Purpose of this repository:
 * Test different programming ideas
 * Improve understanding of programming concepts
 
-Note: This repository is for practice and learning purposes only.
+Note: This repository is for practice and learning purposes only. You can use this for practicing programming using Python Language.
